@@ -123,7 +123,7 @@
     "id": 16,
     "name": "Refrigerantes",
     "img": "images/refrigerante.png",
-    "price": [4,50, 6,50, 12,50],
+    "price": [4.50, 6.50, 12.50],
     "sizes": ["450mL", "600mL", "1L"],
     "description": "Coca Cola, Sprite, Fanta, Mirinda, Mountain Dew, Schweppes, Pepsi e 7up"
   }
