@@ -121,14 +121,6 @@
   },
   {
     "id": 16,
-    "name": "Banana c/ doce de Leite",
-    "img": "images/banan-doce-de-leite.png",
-    "price": [16.5, 24.99, 29.99],
-    "sizes": ["320g", "530g", "860g"],
-    "description": "Banana, doce de leite, açúcar e canela."
-  },
-  {
-    "id": 17,
     "name": "Refrigerantes",
     "img": "images/refrigerante.jpg",
     "price": [4,50, 6,50, 12,50],
